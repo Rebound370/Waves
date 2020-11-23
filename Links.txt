@@ -1,0 +1,3 @@
+https://www.simplifiedpython.net/pdf-to-text-python-extract-text-from-pdf-documents-using-pypdf2-module/
+
+https://note.nkmk.me/en/python-pillow-gif/
